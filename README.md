@@ -1,1 +1,1 @@
-# AzureNote
+# Azure Notes
